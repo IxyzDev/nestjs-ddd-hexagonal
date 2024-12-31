@@ -1,0 +1,1 @@
+En la presente carpeta se encuentra distribuida un ejemplo de la arquitectura hexagonal planteada utilizanod unicamente READMEs para la explicacion de cada modulo.
